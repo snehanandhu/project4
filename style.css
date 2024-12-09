@@ -1,0 +1,108 @@
+#sec1{
+    background-image: url(../df.webp);
+    background-size: cover;
+    color: black;
+    background-color: aqua;
+}
+.inbox1{
+    padding: 100px 0px;
+    text-align: center;
+    min-height: 100px;
+}
+.trans{
+    background-color: rgba(255, 192, 203, 0.863);
+}
+#sec2{
+    background-color: blanchedalmond;
+    color: black;
+}
+.inbox2{
+    padding: 25px 0px;
+    text-align: center;
+    
+}
+.inbox3{
+    padding: 25px 0px;
+}
+
+.link_space{
+    margin-left: 30px;
+}
+#sec{
+    background-color: white;
+}
+.inbox5{padding:50px 0px ;
+
+}
+
+.redcolor{
+    color: brown;
+}
+.inbox6{
+    min-height: 300px;
+}
+.inbox7{
+    min-height: 200px;
+    width: 100%;
+
+}
+#sec5{
+    background-color: white;
+    
+}
+.inbox8{
+    padding: 100px 0px;
+    text-align: center;
+}
+.b1{
+    text-align: center;
+}
+.b2{
+    font-size: 20px;
+}
+.b3{
+    text-align: center;
+}
+.b4{
+    font-size:20px ;
+}
+.b5{
+    background-color: red;
+    text-align: center;
+    
+    
+
+}
+.b6{
+    text-align: center;
+}
+#sec7{
+    background-color: blanchedalmond;
+    background-size: cover;
+    padding: 0 rem ;
+    
+} 
+.inbox12{
+    padding: 100px 0px;
+    min-height: 500px;
+}
+.b7{
+    text-align: center;
+    font-size: 30px;
+}
+.inbox13{
+    text-align: center;
+}
+.c1{
+    font-size: 15px;
+}
+.inbox14{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.inbox14 ul{
+ display: flex;
+ flex-direction: row;
+ gap: 2rem;
+}
